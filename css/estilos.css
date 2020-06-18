@@ -620,6 +620,23 @@ figure{
     .services h4{
         font-size: 0.9em;
     }
+    
+        .services .services-cont .dev-web p{
+        margin: 0px 10px 0px 0px;
+    }
+
+    .services .services-cont .admin-pages p{
+        margin: 0px 10px 0px 0px;
+    }
+
+    .services .services-cont .emails p{
+        margin: 0px 10px 0px 0px;
+    }
+
+    .services .services-cont .admin-emails p{
+        margin: 0px 10px 0px 0px;
+    }
+    
     .header a{
         justify-content: center;
         font-size: .8em;
