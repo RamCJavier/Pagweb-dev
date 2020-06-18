@@ -329,6 +329,10 @@ figure{
     color: white;
 }
 
+.gruas-link a{
+    border-bottom: 1px solid black;
+}
+
 @media screen and (max-width: 1024px){
     .hero{
         height: auto;
